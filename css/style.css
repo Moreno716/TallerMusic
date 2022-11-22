@@ -1,0 +1,109 @@
+@charset "utf-8";
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3rem;
+}
+.imagenPortada{
+    height: 115%;
+    width: 100%;
+}
+.title{
+    font-size: 200px;
+    margin-top: -900px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.clear{
+    clear:both;
+}
+.text1{
+    float: left;
+    margin-top: 331px;
+}
+span{
+    font-size: 3rem; 
+    font-family:system-ui;
+    background: #ccc;
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(90deg,#ff9900,rgb(171, 0, 107));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.textNormal{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+}
+.firstImage{
+    float: right;
+    margin-top: 336px;
+    height: 608px;
+    width: 513px;
+}
+.medio{
+    margin: 50px 400px;
+}
+.center{
+    float: right;
+    margin-top: 109px;
+}
+.secondImage{
+    float: left;
+    height: 608px;
+    width: 513px;
+    margin-top: 111px;
+}
+.end{
+    float: right;
+    margin-top: -562px;
+    position: absolute;
+    left: 66%;
+}
+.textoEnd{
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.contenedor{
+    position: relative;
+}
+.abajo{
+    color: white;
+}
+footer{
+    background-color: #fd4c5c;
+    height: 50%;
+    width: 101%;
+    color: white;
+}
+button{
+    color: white;
+    background-color:#fd2e5c ;
+    border-radius: 30px;
+    border: none;
+    margin: 20px;
+    height: 50px;
+    width: 150px;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+.columnas{
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+}
+.sisas{
+    margin: 0 90px;
+    padding: 20px 0;
+}
+.email{
+    text-align: right;
+    color: white;
+    margin-top: -18px;
+}
+.derecho{
+    margin-top: 26px;
+}
